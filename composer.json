@@ -1,0 +1,38 @@
+{
+    "name": "digital-creative/nova-welcome-card",
+    "description": "Create links to internal or external resources.",
+    "keywords": [
+        "laravel",
+        "nova",
+        "tabs",
+        "card",
+        "field"
+    ],
+    "authors": [
+        {
+            "name": "Rafael Milewski"
+        }
+    ],
+    "license": "MIT",
+    "require": {
+        "php": ">=8.1",
+        "laravel/nova": "^4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "DigitalCreative\\NovaWelcomeCard\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "WelcomeCardServiceProvider"
+            ]
+        }
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
