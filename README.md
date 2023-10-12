@@ -2,7 +2,7 @@
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/digital-creative/nova-welcome-card)](https://packagist.org/packages/digital-creative/nova-welcome-card)
 [![Total Downloads](https://img.shields.io/packagist/dt/digital-creative/nova-welcome-card)](https://packagist.org/packages/digital-creative/nova-welcome-card)
-[![License](https://img.shields.io/packagist/l/digital-creative/nova-welcome-card)](https://github.com/dcasia/nova-welcome-card/blob/master/LICENSE)
+[![License](https://img.shields.io/packagist/l/digital-creative/nova-welcome-card)](https://github.com/dcasia/nova-welcome-card/blob/main/LICENSE)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dcasia/nova-welcome-card/main/screenshots/dark.png">
