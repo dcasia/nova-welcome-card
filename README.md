@@ -9,7 +9,7 @@
   <img alt="Nova Welcome Card in Action" src="https://raw.githubusercontent.com/dcasia/nova-welcome-card/main/screenshots/light.png">
 </picture>
 
-This is a copy/paste from the `Help` card that ships with nova but with a bit more of configurability.
+This is an enhanced version of the `Help card` that comes with Nova, offering additional configurability.
 
 # Installation
 
@@ -59,6 +59,7 @@ Please give a ⭐️ if this project helped you!
 - [Custom Relationship Field](https://github.com/dcasia/custom-relationship-field) - Emulate HasMany relationship without having a real relationship set between resources.
 - [Column Toggler](https://github.com/dcasia/column-toggler) - A Laravel Nova package that allows you to hide/show columns in the index view.
 - [Batch Edit Toolbar](https://github.com/dcasia/batch-edit-toolbar) - Allows you to update a single column of a resource all at once directly from the index page.
+- [Nova Welcome Card](https://github.com/dcasia/nova-welcome-card) - A configurable version of the `Help card` that comes with Nova.
 
 ## License
 

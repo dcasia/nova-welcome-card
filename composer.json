@@ -1,12 +1,10 @@
 {
     "name": "digital-creative/nova-welcome-card",
-    "description": "Create links to internal or external resources.",
+    "description": "A configurable version of the `Help card` that comes with Nova.",
     "keywords": [
         "laravel",
         "nova",
-        "tabs",
-        "card",
-        "field"
+        "card"
     ],
     "authors": [
         {
