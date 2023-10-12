@@ -1,6 +1,6 @@
 <?php
 
-declare(strict_types=1);
+declare(strict_types = 1);
 
 namespace DigitalCreative\NovaWelcomeCard;
 
@@ -11,17 +11,6 @@ class WelcomeCard extends Card
     public $component = 'nova-welcome-card';
 
     public $width = 'full';
-
-    public function __construct(?string $title = null, ?string $description = null)
-    {
-        if ($title) {
-            $this->title($title);
-        }
-
-        if ($description) {
-            $this->description($description);
-        }
-    }
 
     public function title(string $title): static
     {
